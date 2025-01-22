@@ -6,3 +6,4 @@
 ### Implemented triplets (anchor, positive, and negative samples) and the triplet loss
 
 ### Trained the ResNet by removing the last layer to get vector representations of images for training via Metric Learning
+- trained Resnet-18 for 10 epochs only (to be improved)
